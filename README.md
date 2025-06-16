@@ -1,2 +1,2 @@
 # banco-cinema
-<img src= "./banco cinema.png">
+<img src= "./banco cinema.jpg">
